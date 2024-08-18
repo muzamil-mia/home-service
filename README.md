@@ -1,6 +1,12 @@
 # HomeService
 
-HomeService is a full-stack web application designed to connect homeowners with service providers like electricians, plumbers, cooks, and housekeepers. The project is developed using React.js for the frontend and Spring Boot for the backend.
+HomeService is a full-stack web application that connects homeowners with skilled service providers such as electricians, plumbers, cooks, and housekeepers. Built using React.js for the frontend and Spring Boot for the backend, the platform offers a seamless experience for both customers and vendors.
+
+Key Features:
+
+For Vendors: Browse and apply for job listings that match your skills.
+For Homeowners: Easily find and hire trusted professionals for household tasks.
+HomeService simplifies the process of finding reliable help and supports service providers by connecting them with more customers.
 
 ## Table of Contents
 
